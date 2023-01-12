@@ -1,11 +1,11 @@
 <h1 align="center">Hello, World! I'm Jarod Lustre</h1>
-<h3 align="center">Developer, 3D artist, creative</h3>
+<h3 align="center">Developer, Researcher, Creative</h3>
 
 - 🌱 I’m currently learning **ThreeJS, JavaScript, SQL, C++**
 
 - 💬 Ask me about **C#, Java, Python, Unity, Blender**
 
-- ⚡ Fun fact **My first game console was the original Playstation!**
+- ⚡ Fun fact: **My first game console was the original Playstation!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
