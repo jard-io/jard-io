@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C#, Java, Python, Unity, Blender**
 
-- ⚡ Fun fact: **My first game console was the original Playstation!**
+- 🎮 Fun fact: **My first game console was the original Playstation!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
