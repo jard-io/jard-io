@@ -1,5 +1,5 @@
-<h1 align="center">Hello, World! I'm Jarod Lustre</h1>
-<h3 align="center">Developer, Researcher, Creative</h3>
+![](banner-intro.gif)
+
 
 - 🌱 I’m currently learning **ThreeJS, JavaScript, SQL, C++**
 
