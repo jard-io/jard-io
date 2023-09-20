@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ThreeJS, JavaScript, SQL, C++**
 
-- 💬 Ask me about **C#, Java, Python, Unity, Blender**
+- 💬 Ask me about **C#, Java, Python, C**
 
 - 🎮 Fun fact: **My first game console was the original Playstation!**
 
