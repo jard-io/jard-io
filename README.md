@@ -1,7 +1,7 @@
 ![](banner-intro.gif)
 
 
-- 🌱 I’m currently learning **ThreeJS, JavaScript, SQL, C++**
+- 🌱 I’m currently learning **MongoDB, C++**
 
 - 💬 Ask me about **C#, Java, Python, C**
 
