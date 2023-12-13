@@ -1,6 +1,6 @@
 ![](banner-intro.gif)
 
-- Check out my [website](jarodlustre.com)
+- 🌐 Check out my [website](jarodlustre.com)!
 
 - 🐕 I made a mod for Stray [here!](https://www.nexusmods.com/stray/mods/211)
 
