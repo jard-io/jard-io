@@ -1,9 +1,5 @@
 ![](banner-intro.gif)
 
-- 🌐 Check out my [website](https://jarodlustre.com)!
-
-- 🐕 I made a mod for Stray [here!](https://www.nexusmods.com/stray/mods/211)
-
 - 🌱 I’m currently learning **MongoDB, C++**
 
 - 💬 Ask me about **C#, Java, Python, C**
